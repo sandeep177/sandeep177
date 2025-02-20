@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandeep Kaur</h1>
-<h3 align="center">A passionate Data Analyst in Canada</h3>
+<h3 align="center">A passionate Data Analyst from Canada</h3>
 
 <img align="right" alt="coding" width="400" src="http://www.sdgyoungleaders.org/wp-content/uploads/2020/08/load-image-2020-08-11T213740.954.jpeg">
 
