@@ -11,7 +11,7 @@
 
 - 📖 I’m currently learning [Tableau] (link tableau)
 
-- 🤝 Contact me [at Linkedin](https://www.linkedin.com/mynetwork/?skipRedirect=true)
+- 🤝 Contact me at [ Linkedin](https://www.linkedin.com/mynetwork/?skipRedirect=true)
 
 - 👨‍💻 All of my projects are available at [https://github.com/sandeep177/Portfolio](https://github.com/sandeep177/Portfolio)
 
