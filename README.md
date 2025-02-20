@@ -7,9 +7,9 @@
 
 - 👩‍💻 I’m currently working on [SQL👩‍💻 Project](https://github.com/sandeep177/SQL-Projects)
 
-- 📖 I’m currently learning **Tableau**
-
 - 📁 I have some projects on [Python](https://github.com/sandeep177/Python-Projects)
+
+- 📖 I’m currently learning [Tableau] (link tableau)
 
 - 🤝 Contact me [at Linkedin](https://www.linkedin.com/mynetwork/?skipRedirect=true)
 
